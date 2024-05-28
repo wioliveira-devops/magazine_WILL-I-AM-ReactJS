@@ -1,5 +1,4 @@
 # React + Vite
-# React + Vite
 
 Magazine WILL-I-AM_AplicaçãoWeb em ReactJS
 
